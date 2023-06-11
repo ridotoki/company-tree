@@ -1,4 +1,6 @@
 Query:
+
+```
 {
   travelCost{
     id,
@@ -29,8 +31,11 @@ Query:
     }
   }
 }
+```
 
 Response:
+
+```
 {
   "data": {
     "travelCost": [
@@ -200,3 +205,4 @@ Response:
     ]
   }
 }
+```
